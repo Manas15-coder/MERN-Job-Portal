@@ -1,0 +1,37 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-weight: bold;
+  background-color: #f3f2f0;
+}
+
+a {
+  text-decoration: none;
+  color: 'white';
+}
+
+link:hover {
+  color: white;
+}
+
+
+.footer {
+  padding: 10px 20px;
+  width: 100%;
+  background-color: transparent;
+  color: #4d39e9;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  bottom: 0%;
+  position: fixed;
+}
+
+button:hover {
+  color: white;
+}
